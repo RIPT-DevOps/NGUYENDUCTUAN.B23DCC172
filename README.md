@@ -1,7 +1,7 @@
-# Báo cáo về Docker, Docker Compose và triển khai trên Visual Studio Code
+# Báo cáo về Docker, Docker Compose 
 
 ## 1. Giới thiệu
-Docker là một công nghệ giúp tạo ra các container - môi trường độc lập để chạy các ứng dụng. Docker Compose hỗ trợ việc quản lý và khởi chạy nhiều container cùng lúc. Trong dự án này, tôi tập trung tìm hiểu và ứng dụng Docker, Docker Compose trong việc triển khai một dự án React.js. Đồng thời, tôi sử dụng Visual Studio Code (VS Code) như môi trường phát triển chính.
+Docker là một công nghệ giúp tạo ra các container - môi trường độc lập để chạy các ứng dụng. Docker Compose hỗ trợ việc quản lý và khởi chạy nhiều container cùng lúc. Trong dự án này, em tập trung tìm hiểu và ứng dụng Docker, Docker Compose trong việc triển khai một dự án React.js. Đồng thời, em sử dụng Visual Studio Code (VS Code) như môi trường phát triển chính.
 
 ## 2. Docker và Docker Compose
 
