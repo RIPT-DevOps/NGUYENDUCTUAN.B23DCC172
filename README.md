@@ -1,4 +1,4 @@
-**Lưu ý: Cần cài Node.js:**:https://nodejs.org/en/download/package-manager 
+**Lưu ý: Cần cài Node.js và sau đó copy file để đồng bộ:**:https://nodejs.org/en/download/package-manager 
 
 # Báo cáo về Docker, Docker Compose 
 
