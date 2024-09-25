@@ -1,3 +1,5 @@
+**Lưu ý: Cần cài Node.js:**:https://nodejs.org/en/download/package-manager 
+
 # Báo cáo về Docker, Docker Compose 
 
 ## 1. Giới thiệu
